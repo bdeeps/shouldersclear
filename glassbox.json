@@ -1,0 +1,104 @@
+{
+  "slug": "shouldersclear",
+  "box": 198,
+  "date": "2026-11-04",
+  "title": "ShouldersClear",
+  "question": "How do you build your shoulders?",
+  "hook": "The shoulder is a golf ball on a tee: the most mobile joint you have, held on mostly by muscle. Raise an arm and watch the blade turn with it, work out why a 5 kg dumbbell feels heavy out to the side, swing a gada, and learn to train it safely.",
+  "thumbText": "HOW TO BUILD SHOULDERS",
+  "field": "body",
+  "minutes": 15,
+  "tags": [
+    "shoulders",
+    "deltoid",
+    "rotator cuff",
+    "scapula",
+    "strength training",
+    "exercise",
+    "gada",
+    "Indian clubs",
+    "human body",
+    "biomechanics",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "A golf ball on a tee",
+      "text": "Three bones meet at the shoulder: the collarbone, the shoulder blade and the humerus. The humerus's big ball sits on the glenoid, a small, shallow socket. A three-part deltoid caps it, and four rotator cuff muscles wrap the ball."
+    },
+    {
+      "title": "The ball and the blade share every raise",
+      "text": "Lift your arm 180° and roughly 120° happens at the ball and 60° comes from the shoulder blade turning on your ribs: the 2:1 scapulohumeral rhythm measured in 1944. The cuff pulls the ball into the socket so the deltoid can turn it instead of sliding it up."
+    },
+    {
+      "title": "Leverage makes light weights heavy",
+      "text": "In a lateral raise a 5 kg dumbbell 63 cm out twists the shoulder with about 31 N·m, plus 10 N·m from your own arm, peaking at 90°. The side deltoid pulls only about 3 cm from the joint, so it works with forces of a thousand newtons. A gada's long handle adds a lever of its own."
+    },
+    {
+      "title": "Hard sets, patience and balance",
+      "text": "Muscle grows from tension and sets taken close to failure, about 10 or more a week per muscle, with light or heavy loads. Strength comes first, size over weeks to months. Pair pressing with pulling, eat about 0.8 g of protein per kg a day from food (ICMR-NIN), and skip the powders."
+    },
+    {
+      "title": "Train without pain",
+      "text": "Most shoulder pain settles with exercise; surgery to shave the acromion did no better than placebo in the 2018 CSAW trial. A dislocation needs A&E, and a frozen shoulder a doctor. Steroids are harmful and banned (WADA and NADA)."
+    },
+    {
+      "title": "From akhara to clinic",
+      "text": "Indian wrestlers swung the gada and jodi for centuries, and British soldiers took the clubs home in the 1800s as Indian clubs. Medicine took until the 20th century to measure the rhythm and learn that progressive exercise is the first treatment."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Deltoid",
+      "def": "The shoulder's cap muscle, with front, side and rear parts that raise the arm."
+    },
+    {
+      "term": "Rotator cuff",
+      "def": "Supraspinatus, infraspinatus, teres minor and subscapularis: four muscles that turn the arm and keep the ball centred."
+    },
+    {
+      "term": "Glenoid",
+      "def": "The shallow socket on the shoulder blade that the ball of the humerus sits in."
+    },
+    {
+      "term": "Scapulohumeral rhythm",
+      "def": "About 2° of movement at the ball for every 1° the shoulder blade turns, over a full raise."
+    },
+    {
+      "term": "Moment (torque)",
+      "def": "Turning effect: force × horizontal distance from the joint, in newton-metres."
+    },
+    {
+      "term": "Hard set",
+      "def": "A set taken close to failure, with only a few reps left in reserve."
+    },
+    {
+      "term": "Impingement",
+      "def": "The cuff tendon and bursa being squeezed under the acromion as the arm lifts."
+    },
+    {
+      "term": "Gada and jodi",
+      "def": "The Indian mace and pair of wooden clubs swung in akharas to build strong shoulders."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "shouldersclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ],
+  "thumbScene": 4
+}

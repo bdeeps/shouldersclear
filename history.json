@@ -1,0 +1,718 @@
+{
+  "title": "The history of shoulder training",
+  "tagline": "From the Arthashastra's clubs and Hanuman's gada to Indian clubs in London, the 2:1 rhythm and a surgery that failed its placebo test.",
+  "intro": "Indian wrestlers built strong shoulders with maces, clubs and poles for well over a thousand years. In the 1800s British soldiers took the clubs home and the world started swinging them. Medicine came later: surgeons measured how the shoulder moves, blamed the acromion for pain, and then found in careful trials that exercise, not shaving bone, is the first treatment.",
+  "eras": [
+    {
+      "id": "akhara",
+      "name": "The akhara tradition",
+      "from": -300,
+      "to": 1910,
+      "color": "#ffb070",
+      "summary": "Clubs in the Arthashastra, maces in the epics, mallakhamb in the Manasollasa, and wrestlers like Gama."
+    },
+    {
+      "id": "clubs",
+      "name": "Indian clubs go global",
+      "from": 1830,
+      "to": 1940,
+      "color": "#c49bff",
+      "summary": "British soldiers take the mudgar home as the Indian club, and it spreads to America and the Olympics."
+    },
+    {
+      "id": "science",
+      "name": "Measuring the shoulder",
+      "from": 1930,
+      "to": 1985,
+      "color": "#8ef0ff",
+      "summary": "Codman's cuff, Inman's 2:1 rhythm and Neer's acromion."
+    },
+    {
+      "id": "evidence",
+      "name": "Evidence and exercise",
+      "from": 1980,
+      "to": 2026,
+      "color": "#6ee7a8",
+      "summary": "Placebo-controlled surgery trials, training meta-analyses and guidelines that put exercise first."
+    }
+  ],
+  "events": [
+    {
+      "year": -300,
+      "date": "Attributed to c. 4th century BCE (dating debated)",
+      "era": "akhara",
+      "art": "scroll",
+      "key": true,
+      "title": "Clubs in the Arthashastra",
+      "who": "Kautilya (attributed)",
+      "where": "Pataliputra (traditionally)",
+      "country": "India",
+      "text": "The Arthashastra, a Sanskrit treatise on statecraft, mentions the mudgar, a wooden club. It is the oldest known written mention of the clubs Indian wrestlers still swing in pairs as the jodi.",
+      "why": "It shows club training has deep roots in India, long before it had an English name.",
+      "box": "history",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": -200,
+      "date": "c. 400 BCE to 400 CE (composition long debated)",
+      "era": "akhara",
+      "art": "scroll",
+      "key": false,
+      "title": "Mace fighting in the epics",
+      "who": "Composers of the Mahabharata",
+      "where": "India",
+      "country": "India",
+      "text": "The Mahabharata and later the Agni Purana describe gada-yuddha, fighting with the mace, which could be handled in twenty different ways. Mace-wielding heroes became models of strength.",
+      "why": "The gada entered India's stories of strength, and from there the wrestling ground.",
+      "box": "history",
+      "sources": [
+        1
+      ]
+    },
+    {
+      "year": 500,
+      "date": "5th to 7th century CE",
+      "era": "akhara",
+      "art": "muscle",
+      "key": false,
+      "title": "A club carved in stone",
+      "who": "Unknown sculptor",
+      "where": "Moghalmari, West Bengal",
+      "country": "India",
+      "text": "A stone figure found at Moghalmari, near Kolkata, shows a person holding a club of the kind later swung as the mudgar.",
+      "why": "Art shows clubs were part of Indian physical culture well over a thousand years ago.",
+      "box": "history",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 1135,
+      "date": "1135 CE",
+      "era": "akhara",
+      "art": "scroll",
+      "key": true,
+      "title": "The Manasollasa describes pole and club drills",
+      "who": "King Someshvara III of the Western Chalukyas",
+      "where": "Kalyani, Karnataka",
+      "country": "India",
+      "text": "The Manasollasa, an encyclopedia written for a king, describes wrestlers training on a wooden pole, the earliest literary mention of mallakhamb, along with club exercises.",
+      "why": "It is the first written description of mallakhamb, a sport still practised across India.",
+      "box": "history",
+      "sources": [
+        2,
+        0
+      ]
+    },
+    {
+      "year": 1250,
+      "date": "13th century",
+      "era": "akhara",
+      "art": "scroll",
+      "key": false,
+      "title": "The Malla Purana",
+      "who": "A community of wrestlers (attributed)",
+      "where": "India",
+      "country": "India",
+      "text": "The Malla Purana, a text of a wrestling community, describes training methods including exercises with clubs.",
+      "why": "It records club training as part of a wrestler's daily practice.",
+      "box": "history",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 1610,
+      "date": "1610 CE",
+      "era": "akhara",
+      "art": "person",
+      "key": false,
+      "title": "Clubs and poles in painting",
+      "who": "Rajput painters",
+      "where": "Rajasthan",
+      "country": "India",
+      "text": "A Rajput painting from 1610, and a Mughal one from about 1670, show athletes training with clubs and on poles.",
+      "why": "Court art shows the training was familiar to India's rulers and their audiences.",
+      "box": "history",
+      "sources": [
+        0,
+        2
+      ]
+    },
+    {
+      "year": 1810,
+      "date": "Early 19th century (attributed; no exact date)",
+      "era": "akhara",
+      "art": "trophy",
+      "key": false,
+      "title": "Mallakhamb is revived",
+      "who": "Balambhatta Dada Deodhar, teacher of Peshwa Baji Rao II",
+      "where": "Pune, Maharashtra",
+      "country": "India",
+      "text": "After about a century with little mention, Balambhatta Dada Deodhar is credited with reviving mallakhamb and teaching it at the Peshwa's court.",
+      "why": "The revival kept pole training alive into the modern era.",
+      "box": "history",
+      "sources": [
+        2
+      ]
+    },
+    {
+      "year": 1834,
+      "date": "1834",
+      "era": "clubs",
+      "art": "quill",
+      "key": true,
+      "title": "The first English book on club swinging",
+      "who": "Donald Walker",
+      "where": "London",
+      "country": "England",
+      "text": "Englishmen in the East India Company's service had seen wrestlers swinging heavy clubs in India and took the idea home. Donald Walker's British Manly Exercises (1834) is believed to be the earliest book on club swinging.",
+      "why": "It began the journey of the mudgar, renamed the Indian club, round the world.",
+      "box": "pressing",
+      "sources": [
+        3,
+        0
+      ]
+    },
+    {
+      "year": 1850,
+      "date": "c. 1850 (as reported)",
+      "era": "clubs",
+      "art": "muscle",
+      "key": false,
+      "title": "The British army adopts light clubs",
+      "who": "British army",
+      "where": "Britain",
+      "country": "United Kingdom",
+      "text": "Lighter clubs were reportedly introduced in the British army around 1850. Traditional Indian clubs could weigh up to about 35 kg; the army's weighed about 2 kg.",
+      "why": "Making the clubs light turned a wrestler's strength tool into a drill for whole regiments.",
+      "box": "pressing",
+      "sources": [
+        3,
+        0
+      ]
+    },
+    {
+      "year": 1866,
+      "date": "1866",
+      "era": "clubs",
+      "art": "quill",
+      "key": false,
+      "title": "Indian clubs come to America",
+      "who": "Sim D. Kehoe",
+      "where": "New York",
+      "country": "USA",
+      "text": "Sim Kehoe, who had seen a club-swinging professor in England in 1861, published The Indian Club Exercise in New York and made and sold clubs.",
+      "why": "Club swinging became a fitness craze in the USA as well as Britain.",
+      "box": "pressing",
+      "sources": [
+        3
+      ]
+    },
+    {
+      "year": 1904,
+      "date": "1904",
+      "era": "clubs",
+      "art": "trophy",
+      "key": false,
+      "title": "Club swinging at the Olympics",
+      "who": "Olympic gymnastics",
+      "where": "St. Louis",
+      "country": "USA",
+      "text": "Indian club swinging appeared as a gymnastics event at the 1904 Olympic Games, and again in 1932.",
+      "why": "A training practice from Indian akharas reached the Olympic programme.",
+      "box": "history",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 1910,
+      "date": "10 and 17 September 1910",
+      "era": "akhara",
+      "art": "trophy",
+      "key": true,
+      "title": "Gama wins the John Bull Belt",
+      "who": "Ghulam Mohammad Baksh, the Great Gama",
+      "where": "London",
+      "country": "United Kingdom",
+      "text": "The Indian wrestler Gama met Stanislaus Zbyszko in the final of the John Bull World Championship. The first bout was a draw after nearly three hours; Zbyszko did not return for the rematch, so Gama was awarded the belt. He was known for heavy daily training, including the gada.",
+      "why": "It made akhara training famous worldwide.",
+      "box": "pressing",
+      "sources": [
+        4,
+        1,
+        5
+      ]
+    },
+    {
+      "year": 1934,
+      "date": "1934",
+      "era": "science",
+      "art": "quill",
+      "key": true,
+      "title": "Codman's book The Shoulder",
+      "who": "Ernest Amory Codman",
+      "where": "Boston",
+      "country": "USA",
+      "text": "The surgeon Ernest Codman published The Shoulder, a detailed study of the rotator cuff and its injuries. He also described how the arm and shoulder blade move together as the arm rises.",
+      "why": "It made the rotator cuff a subject of serious study.",
+      "box": "mobility",
+      "sources": [
+        6,
+        8
+      ]
+    },
+    {
+      "year": 1936,
+      "date": "1936",
+      "era": "clubs",
+      "art": "trophy",
+      "key": false,
+      "title": "Mallakhamb in Berlin",
+      "who": "Indian gymnasts",
+      "where": "Berlin",
+      "country": "Germany",
+      "text": "An Indian team demonstrated mallakhamb at the 1936 Berlin Olympic Games.",
+      "why": "It showed India's pole gymnastics to the world.",
+      "box": "history",
+      "sources": [
+        2
+      ]
+    },
+    {
+      "year": 1944,
+      "date": "1944",
+      "era": "science",
+      "art": "skeleton",
+      "key": true,
+      "title": "The 2:1 rhythm is measured",
+      "who": "Verne Inman, J. B. de C. M. Saunders and LeRoy Abbott",
+      "where": "San Francisco",
+      "country": "USA",
+      "text": "Using X-rays and muscle recordings, Inman's team described how a full arm raise is shared: about 2° at the ball-and-socket joint for every 1° of shoulder-blade rotation. They also recorded which muscles work at each stage.",
+      "why": "The scapulohumeral rhythm is still taught today, though later studies show the ratio varies.",
+      "box": "mobility",
+      "sources": [
+        6
+      ]
+    },
+    {
+      "year": 1972,
+      "date": "1972",
+      "era": "science",
+      "art": "xray",
+      "key": true,
+      "title": "Neer blames the acromion",
+      "who": "Charles S. Neer II",
+      "where": "New York",
+      "country": "USA",
+      "text": "Charles Neer proposed that shoulder impingement comes from the front third of the acromion and its ligament pressing on the cuff, and described shaving it away (anterior acromioplasty).",
+      "why": "It launched decades of decompression surgery for shoulder pain.",
+      "box": "safety",
+      "sources": [
+        7
+      ]
+    },
+    {
+      "year": 1981,
+      "date": "28 to 29 January 1981",
+      "era": "evidence",
+      "art": "trophy",
+      "key": false,
+      "title": "The first national mallakhamb championship",
+      "who": "Mallakhamb enthusiasts led from Ujjain",
+      "where": "Ujjain, Madhya Pradesh",
+      "country": "India",
+      "text": "The first all-India mallakhamb championship was held in Ujjain, and a national federation followed in 1984.",
+      "why": "Mallakhamb became an organised modern sport.",
+      "box": "history",
+      "sources": [
+        2
+      ]
+    },
+    {
+      "year": 1983,
+      "date": "1983",
+      "era": "science",
+      "art": "xray",
+      "key": false,
+      "title": "Cuff-tear arthropathy",
+      "who": "Charles Neer, Edward Craig and Hiroaki Fukuda",
+      "where": "New York",
+      "country": "USA",
+      "text": "Neer and colleagues described how a shoulder with a massive cuff tear can let the ball ride up into the acromion and the joint wear out.",
+      "why": "It showed why the cuff matters: without it, the deltoid slides the ball instead of turning it.",
+      "box": "mobility",
+      "sources": [
+        8
+      ]
+    },
+    {
+      "year": 1995,
+      "date": "1995",
+      "era": "evidence",
+      "art": "muscle",
+      "key": false,
+      "title": "How long a workout keeps building",
+      "who": "J. Duncan MacDougall and colleagues",
+      "where": "Hamilton, Ontario",
+      "country": "Canada",
+      "text": "Measuring muscle protein synthesis after heavy arm training, the team found it raised by about half at 4 hours and doubled at 24 hours, then nearly back to normal by about 36 hours.",
+      "why": "It explains why training a muscle about twice a week works.",
+      "box": "training",
+      "sources": [
+        12
+      ]
+    },
+    {
+      "year": 2008,
+      "date": "2008",
+      "era": "evidence",
+      "art": "skeleton",
+      "key": false,
+      "title": "Measuring the shoulder's levers",
+      "who": "David Ackland, Marcus Pandy and colleagues",
+      "where": "Melbourne",
+      "country": "Australia",
+      "text": "In eight donated shoulders the team measured the lever arm of each muscle part as the arm moved. The middle and front deltoid were the most effective lifters; the supraspinatus works best at the start of the raise.",
+      "why": "These numbers let models like this box work out how hard each muscle pulls.",
+      "box": "pressing",
+      "sources": [
+        13
+      ]
+    },
+    {
+      "year": 2013,
+      "date": "9 April 2013",
+      "era": "evidence",
+      "art": "trophy",
+      "key": false,
+      "title": "Mallakhamb becomes a state sport",
+      "who": "Government of Madhya Pradesh",
+      "where": "Bhopal, Madhya Pradesh",
+      "country": "India",
+      "text": "Madhya Pradesh declared mallakhamb its state sport; by 2017 more than 20 other states had included it in their sports programmes.",
+      "why": "Official support brought the old pole back into schools.",
+      "box": "history",
+      "sources": [
+        2
+      ]
+    },
+    {
+      "year": 2017,
+      "date": "2017",
+      "era": "evidence",
+      "art": "scales",
+      "key": true,
+      "title": "More sets, more growth",
+      "who": "Brad Schoenfeld, Dan Ogborn and James Krieger",
+      "where": "New York",
+      "country": "USA",
+      "text": "A meta-analysis of 15 studies found a dose-response: each extra weekly set added about 0.37% muscle growth. A second review found light and heavy loads build similar size when sets go close to failure.",
+      "why": "It gave lifters an evidence-based way to plan their training.",
+      "box": "training",
+      "sources": [
+        14,
+        18
+      ]
+    },
+    {
+      "year": 2018,
+      "date": "Online November 2017; print 2018",
+      "era": "evidence",
+      "art": "scales",
+      "key": true,
+      "title": "Surgery versus placebo: the CSAW trial",
+      "who": "Andrew Carr, David Beard and colleagues",
+      "where": "32 hospitals, United Kingdom",
+      "country": "United Kingdom",
+      "text": "In 313 people with long-lasting shoulder pain, shaving the acromion did no better than arthroscopy without the shaving. NHS England then listed the operation as a procedure of limited value.",
+      "why": "It shifted care towards exercise and showed why surgery needs placebo-controlled trials.",
+      "box": "safety",
+      "sources": [
+        10,
+        11,
+        22
+      ]
+    },
+    {
+      "year": 2019,
+      "date": "February 2019",
+      "era": "evidence",
+      "art": "trophy",
+      "key": false,
+      "title": "The first World Mallakhamb Championship",
+      "who": "Indian and international athletes",
+      "where": "Mumbai, Maharashtra",
+      "country": "India",
+      "text": "Mumbai hosted the first world championship in mallakhamb, with Himani Uttam Parab among the gold medallists.",
+      "why": "An Indian training tradition became an international sport.",
+      "box": "history",
+      "sources": [
+        2
+      ]
+    },
+    {
+      "year": 2020,
+      "date": "November 2020",
+      "era": "evidence",
+      "art": "heart",
+      "key": false,
+      "title": "WHO: strength work for everyone",
+      "who": "World Health Organization",
+      "where": "Geneva",
+      "country": "Switzerland",
+      "text": "WHO's guidelines advised muscle-strengthening activity for all age groups: on 2 or more days a week for adults, with balance and strength work on 3 or more days for older adults.",
+      "why": "Strong shoulders became part of the global health message, not just sport.",
+      "box": "training",
+      "sources": [
+        15
+      ]
+    },
+    {
+      "year": 2024,
+      "date": "May 2024",
+      "era": "evidence",
+      "art": "flask",
+      "key": false,
+      "title": "Food first, not powders",
+      "who": "ICMR-National Institute of Nutrition",
+      "where": "Hyderabad, Telangana",
+      "country": "India",
+      "text": "India's new dietary guidelines put adult protein needs at about 0.8 g per kg of body weight a day and advised against protein supplements for building body mass.",
+      "why": "It is the reference for Indian lifters on how much protein they need.",
+      "box": "training",
+      "sources": [
+        16,
+        17
+      ]
+    },
+    {
+      "year": 2025,
+      "date": "2025",
+      "era": "evidence",
+      "art": "scales",
+      "key": false,
+      "title": "Ten years on, still no benefit",
+      "who": "Kanto and colleagues (FIMPACT trial)",
+      "where": "Finland",
+      "country": "Finland",
+      "text": "A ten-year follow-up of a Finnish placebo-controlled trial found arthroscopic subacromial decompression still offered no benefit over placebo surgery or exercise.",
+      "why": "Long-term evidence backed exercise as the first treatment for impingement pain.",
+      "box": "safety",
+      "sources": [
+        8
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Oldest written mention of the mudgar",
+      "value": "Attributed to the 4th century BCE",
+      "who": "The Arthashastra, India"
+    },
+    {
+      "label": "Earliest literary mention of mallakhamb",
+      "value": "1135 CE",
+      "who": "The Manasollasa, Someshvara III"
+    },
+    {
+      "label": "First book on club swinging in English",
+      "value": "1834 (believed)",
+      "who": "Donald Walker, London"
+    },
+    {
+      "label": "Scapulohumeral rhythm measured",
+      "value": "1944",
+      "who": "Inman, Saunders and Abbott, San Francisco"
+    },
+    {
+      "label": "Placebo-controlled trial of shoulder decompression surgery",
+      "value": "2017–2018",
+      "who": "CSAW, United Kingdom"
+    }
+  ],
+  "people": [
+    {
+      "name": "The Great Gama (Ghulam Mohammad Baksh)",
+      "life": "c. 1878 – 1960",
+      "role": "Wrestler",
+      "from": "Punjab, British India",
+      "note": "Won the John Bull Belt in London in 1910; known for heavy akhara training, including the gada."
+    },
+    {
+      "name": "Balambhatta Dada Deodhar",
+      "life": "Late 18th to early 19th century",
+      "role": "Mallakhamb teacher",
+      "from": "Maharashtra, India",
+      "note": "Credited with reviving mallakhamb; teacher of Peshwa Baji Rao II."
+    },
+    {
+      "name": "Donald Walker",
+      "life": "19th century",
+      "role": "Writer on exercise",
+      "from": "England",
+      "note": "His British Manly Exercises (1834) is believed to be the first English book on club swinging."
+    },
+    {
+      "name": "Ernest Amory Codman",
+      "life": "1869 – 1940",
+      "role": "Surgeon",
+      "from": "Boston, USA",
+      "note": "Wrote The Shoulder (1934), a landmark study of the rotator cuff."
+    },
+    {
+      "name": "Verne T. Inman",
+      "life": "1905 – 1980",
+      "role": "Orthopaedic surgeon",
+      "from": "USA",
+      "note": "Led the 1944 study that measured the shoulder's 2:1 rhythm."
+    },
+    {
+      "name": "Charles S. Neer II",
+      "life": "1917 – 2011",
+      "role": "Shoulder surgeon",
+      "from": "Oklahoma, USA",
+      "note": "Named the impingement syndrome in 1972 and described cuff-tear arthropathy."
+    },
+    {
+      "name": "Himani Uttam Parab",
+      "life": "Living",
+      "role": "Mallakhamb athlete",
+      "from": "Mumbai, India",
+      "note": "Gold medallist at the first World Mallakhamb Championship (2019); Arjuna Award 2021."
+    }
+  ],
+  "series": [],
+  "facts": [
+    "Traditional Indian clubs could weigh up to about 35 kg; the British army's version weighed about 2 kg.",
+    "Gama's 1910 final in London lasted nearly three hours and ended in a draw; he won the belt when his opponent did not return.",
+    "Over a full arm raise, about a third of the movement comes from the shoulder blade turning on your ribs, not from the ball and socket.",
+    "In the CSAW trial, people who had a placebo shoulder operation improved about as much as those whose acromion was actually shaved."
+  ],
+  "sources": [
+    {
+      "title": "Indian club",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Indian_club"
+    },
+    {
+      "title": "Gada (mace)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gada_(mace)"
+    },
+    {
+      "title": "Mallakhamba",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mallakhamba"
+    },
+    {
+      "title": "When Indian mugdars were a sensation in US and UK (B. N. Goswamy)",
+      "publisher": "The Tribune, India",
+      "url": "https://www.tribuneindia.com/news/arts/when-indian-mugdars-were-a-sensation-in-us-and-uk-277929"
+    },
+    {
+      "title": "The Great Gama",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Great_Gama"
+    },
+    {
+      "title": "Who is the Great Gama Pehlwan",
+      "publisher": "Olympics.com",
+      "url": "https://olympics.com/en/news/who-is-the-great-gama-pehlwan-india-wrestler"
+    },
+    {
+      "title": "Scapulohumeral rhythm",
+      "publisher": "Physiopedia",
+      "url": "https://www.physio-pedia.com/Scapulohumeral_Rhythm"
+    },
+    {
+      "title": "Shoulder impingement syndrome",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Shoulder_impingement_syndrome"
+    },
+    {
+      "title": "Rotator cuff tear",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rotator_cuff_tear"
+    },
+    {
+      "title": "Rotator cuff tears",
+      "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+      "url": "https://www.orthoinfo.org/en/diseases--conditions/rotator-cuff-tears/"
+    },
+    {
+      "title": "Arthroscopic subacromial decompression for subacromial shoulder pain (CSAW) trial registration",
+      "publisher": "ClinicalTrials.gov (NCT01623011)",
+      "url": "https://clinicaltrials.gov/study/NCT01623011"
+    },
+    {
+      "title": "A surgical procedure for shoulder pain is less effective than previously thought",
+      "publisher": "NIHR Evidence",
+      "url": "https://evidence.nihr.ac.uk/alert/a-surgical-procedure-for-shoulder-pain-is-less-effective-than-previously-thought"
+    },
+    {
+      "title": "The time course for elevated muscle protein synthesis following heavy resistance exercise (MacDougall et al., 1995)",
+      "publisher": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8563679/"
+    },
+    {
+      "title": "Moment arms of the muscles crossing the anatomical shoulder (Ackland et al., 2008)",
+      "publisher": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18691376/"
+    },
+    {
+      "title": "Dose-response relationship between weekly resistance training volume and increases in muscle mass (Schoenfeld et al., 2017)",
+      "publisher": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27433992/"
+    },
+    {
+      "title": "World Health Organization 2020 guidelines on physical activity and sedentary behaviour (Bull et al.)",
+      "publisher": "British Journal of Sports Medicine (PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7719906/"
+    },
+    {
+      "title": "Dietary Guidelines for Indians (2024 edition)",
+      "publisher": "ICMR-National Institute of Nutrition",
+      "url": "https://www.nin.res.in/dietaryguidelines/"
+    },
+    {
+      "title": "Dietary Guidelines for Indians (2024 Edition) by ICMR-NIN",
+      "publisher": "Nutrition Connect (GAIN)",
+      "url": "https://nutritionconnect.org/resource-center/dietary-guidelines-indians-2024-edition-icmr-nin"
+    },
+    {
+      "title": "Low- vs high-load resistance training: systematic review and meta-analysis (Schoenfeld et al., 2017)",
+      "publisher": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28834797/"
+    },
+    {
+      "title": "Protein supplementation and resistance training: meta-analysis (Morton et al., 2018)",
+      "publisher": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28698222/"
+    },
+    {
+      "title": "Adhesive capsulitis of the shoulder",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Adhesive_capsulitis_of_the_shoulder"
+    },
+    {
+      "title": "Frozen shoulder",
+      "publisher": "NHS",
+      "url": "https://www.nhs.uk/conditions/frozen-shoulder/"
+    },
+    {
+      "title": "Placebo-controlled randomised surgical trial for subacromial shoulder pain",
+      "publisher": "NDORMS, University of Oxford",
+      "url": "https://www.ndorms.ox.ac.uk/news/placebo-controlled-randomised-surgical-trial-for-subacromial-shoulder-pain"
+    },
+    {
+      "title": "Indian clubs and colonialism (review of Heffernan's research)",
+      "publisher": "idrottsforum.org",
+      "url": "https://idrottsforum.org/bolhan_heffernan240617/"
+    }
+  ]
+}

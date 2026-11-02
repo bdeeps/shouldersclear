@@ -6,7 +6,7 @@
 
 <p align="center"><b>How do you build your shoulders?</b><br>The shoulder is a golf ball on a tee: the most mobile joint you have, held on mostly by muscle. Raise an arm and watch the blade turn with it, work out why a 5 kg dumbbell feels heavy out to the side, swing a gada, and learn to train it safely.</p>
 
-<p align="center"><a href="https://glassbox.how/shouldersclear/"><b>▶ Play with it</b></a> &nbsp;·&nbsp; <a href="https://glassbox.how/e/shouldersclear/">Read the 60-second explainer</a> &nbsp;·&nbsp; <a href="https://glassbox.how/shouldersclear/glassbox/reel.mp4">Watch the 40-second video</a></p>
+<p align="center"><a href="https://glassbox.how/shouldersclear/"><b>▶ Play with it</b></a> &nbsp;·&nbsp; <a href="https://glassbox.how/e/shouldersclear/">Read the 60-second explainer</a></p>
 
 <p align="center">
   <a href="https://glassbox.how/e/shouldersclear/"><img alt="Glassbox No. 198" src="https://img.shields.io/badge/Glassbox-No.%20198-8ef0ff"></a>
@@ -63,12 +63,9 @@ Made with the Glassbox studio from this box's storyboard (`window.glassbox.direc
 
 | File | What | Size |
 |---|---|---|
-| [`glassbox/reel.mp4`](https://glassbox.how/shouldersclear/glassbox/reel.mp4) | Reel / Short, with captions and soundtrack | 1080×1920 |
-| [`glassbox/video.mp4`](https://glassbox.how/shouldersclear/glassbox/video.mp4) | YouTube video, with captions and soundtrack | 1920×1080 |
 | `glassbox/slide-1…10.jpg` | Instagram carousel | 1080×1350 |
 | `glassbox/thumb.jpg` | YouTube thumbnail | 1280×720 |
 | `glassbox/cover.jpg` | Share card and repo social preview | 1200×630 |
-| [`glassbox/history-reel.mp4`](https://glassbox.how/shouldersclear/glassbox/history-reel.mp4) | “History in 10 moments” Reel / Short | 1080×1920 |
 | `glassbox/history-slide-*.jpg` | History carousel | 1080×1350 |
 | `glassbox/post.json` | Post copy and schedule used by the publish kit | |
 
